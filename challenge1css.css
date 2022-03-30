@@ -1,0 +1,96 @@
+
+
+		.flex-center {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		#fondo{
+			position: relative;
+			width: 3000px;
+			height: 1000px;
+			background-color: black;
+			background-image: url(https://i.pinimg.com/originals/0c/2a/8a/0c2a8aa94c8386f46cece3afc039af1e.jpg);
+			
+
+
+		}
+		
+		* {
+			color: black;
+		}
+
+
+		#titulo{
+			position: absolute;
+			top: 10px;
+			left: 500px;
+			font-size: 40px;
+		
+
+		}
+/** plum es el color rosita del input
+lightskyblue es el color celeste al que cambia el input cuando paso el mouse
+darkslateblue es el color de la letra
+
+*/
+
+		#primero {
+			position: absolute;
+			color: darkslateblue;
+			width: 250px;
+			height: 50px;
+			top: 100px;
+			left: 450px;
+			background-color: plum;
+			font-size: 30px;
+			
+		}
+
+		#primero:hover {
+			background-color: lightskyblue;
+		}
+		
+
+		#segundo {
+			position: absolute;
+			color: darkslateblue;
+			width: 250px;
+			height: 50px;
+			top: 100px;
+			left: 710px;
+			background-color: plum;
+			font-size: 30px;	
+		}
+
+		#segundo:hover {
+			background-color: lightskyblue; 
+
+		}
+
+		#encriptador {
+			position: absolute;
+			width: 200px;
+			height: 30px;
+			top: 180px;
+			left: 475px;
+
+
+			
+			 
+		}
+
+		#desencriptador {
+			position: absolute;
+			width: 200px;
+			height: 30px;
+			top: 180px;
+			left: 730px;
+			
+		}
+*/
+
+
+
+	
